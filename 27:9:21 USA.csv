@@ -1,66 +1,66 @@
-﻿date,location,total_vaccinations
-27/9/21,Alabama,4494228
-27/9/21,Alaska,786285
-27/9/21,American Samoa,61778
-27/9/21,Arizona,8176626
-27/9/21,Arkansas,2996667
-27/9/21,Bureau of Prisons,226878
-27/9/21,California,50419967
-27/9/21,Colorado,7140190
-27/9/21,Connecticut,5005114
-27/9/21,Delaware,1192563
-27/9/21,Dept of Defense,5642343
-27/9/21,District of Columbia,994834
-27/9/21,Federated States of Micronesia,72085
-27/9/21,Florida,26622648
-27/9/21,Georgia,10591698
-27/9/21,Guam,232499
-27/9/21,Hawaii,1864887
-27/9/21,Idaho,1554161
-27/9/21,Illinois,15241792
-27/9/21,Indian Health Svc,1633683
-27/9/21,Indiana,6710196
-27/9/21,Iowa,3425841
-27/9/21,Kansas,3067859
-27/9/21,Kentucky,4891295
-27/9/21,Long Term Care,7962878
-27/9/21,Louisiana,4489027
-27/9/21,Maine,1809244
-27/9/21,Marshall Islands,40256
-27/9/21,Maryland,7917692
-27/9/21,Massachusetts,9759052
-27/9/21,Michigan,10568980
-27/9/21,Minnesota,6625982
-27/9/21,Mississippi,2755220
-27/9/21,Missouri,6247438
-27/9/21,Montana,1078898
-27/9/21,Nebraska,2158861
-27/9/21,Nevada,3378653
-27/9/21,New Hampshire,1744170
-27/9/21,New Jersey,11475072
-27/9/21,New Mexico,2768603
-27/9/21,New York State,25768946
-27/9/21,North Carolina,11225575
-27/9/21,North Dakota,737286
-27/9/21,Northern Mariana Islands,69679
-27/9/21,Ohio,12018347
-27/9/21,Oklahoma,4120769
-27/9/21,Oregon,5206293
-27/9/21,Pennsylvania,16115449
-27/9/21,Puerto Rico,4660110
-27/9/21,Republic of Palau,31055
-27/9/21,Rhode Island,1453886
-27/9/21,South Carolina,5224289
-27/9/21,South Dakota,947285
-27/9/21,Tennessee,6790216
-27/9/21,Texas,32265892
-27/9/21,United States,390664923
-27/9/21,Utah,3409201
-27/9/21,Vermont,894769
-27/9/21,Veterans Health,5660982
-27/9/21,Virgin Islands,101519
-27/9/21,Virginia,10816729
-27/9/21,Washington,9497413
-27/9/21,West Virginia,1542071
-27/9/21,Wisconsin,6754971
-27/9/21,Wyoming,513700
+﻿date,location,total_vaccinations,people_fully_vaccinated_per_hundred
+27/9/21,Alabama,4494228,42.29
+27/9/21,Alaska,786285,50.36
+27/9/21,American Samoa,61778,50.73
+27/9/21,Arizona,8176626,50.93
+27/9/21,Arkansas,2996667,45.36
+27/9/21,Bureau of Prisons,226878,30.7
+27/9/21,California,50419967,58.81
+27/9/21,Colorado,7140190,59.19
+27/9/21,Connecticut,5005114,68.47
+27/9/21,Delaware,1192563,57.3
+27/9/21,Dept of Defense,5642343,38.3
+27/9/21,District of Columbia,994834,59.97
+27/9/21,Federated States of Micronesia,72085,36.93
+27/9/21,Florida,26622648,57.01
+27/9/21,Georgia,10591698,45.07
+27/9/21,Guam,232499,67.45
+27/9/21,Hawaii,1864887,57.67
+27/9/21,Idaho,1554161,41.43
+27/9/21,Illinois,15241792,53.33
+27/9/21,Indian Health Svc,1633683,35.85
+27/9/21,Indiana,6710196,48.28
+27/9/21,Iowa,3425841,53.72
+27/9/21,Kansas,3067859,50.9
+27/9/21,Kentucky,4891295,52.02
+27/9/21,Long Term Care,7962878,29.6
+27/9/21,Louisiana,4489027,45.21
+27/9/21,Maine,1809244,68.21
+27/9/21,Marshall Islands,40256,33.61
+27/9/21,Maryland,7917692,63.89
+27/9/21,Massachusetts,9759052,67.78
+27/9/21,Michigan,10568980,52.18
+27/9/21,Minnesota,6625982,58.02
+27/9/21,Mississippi,2755220,43.09
+27/9/21,Missouri,6247438,47.62
+27/9/21,Montana,1078898,48.25
+27/9/21,Nebraska,2158861,54.52
+27/9/21,Nevada,3378653,50.57
+27/9/21,New Hampshire,1744170,61.42
+27/9/21,New Jersey,11475072,64.13
+27/9/21,New Mexico,2768603,62.9
+27/9/21,New York State,25768946,63.47
+27/9/21,North Carolina,11225575,49.59
+27/9/21,North Dakota,737286,43.92
+27/9/21,Northern Mariana Islands,69679,59.74
+27/9/21,Ohio,12018347,50.08
+27/9/21,Oklahoma,4120769,47.36
+27/9/21,Oregon,5206293,60.55
+27/9/21,Pennsylvania,16115449,57.64
+27/9/21,Puerto Rico,4660110,70.12
+27/9/21,Republic of Palau,31055,86.65
+27/9/21,Rhode Island,1453886,68
+27/9/21,South Carolina,5224289,47
+27/9/21,South Dakota,947285,51.4
+27/9/21,Tennessee,6790216,44.98
+27/9/21,Texas,32265892,51.04
+27/9/21,United States,390664923,55.39
+27/9/21,Utah,3409201,50.28
+27/9/21,Vermont,894769,69.35
+27/9/21,Veterans Health,5660982,27.8
+27/9/21,Virgin Islands,101519,44.13
+27/9/21,Virginia,10816729,60.32
+27/9/21,Washington,9497413,60.41
+27/9/21,West Virginia,1542071,40.35
+27/9/21,Wisconsin,6754971,56.28
+27/9/21,Wyoming,513700,41.16
