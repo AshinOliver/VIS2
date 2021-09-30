@@ -1,0 +1,434 @@
+﻿date,state,positive
+Nov.,Alabama,228373
+Oct.,Alabama,190496
+Sep.,Alabama,154701
+Aug.,Alabama,125235
+Jul.,Alabama,85762
+Jun.,Alabama,38045
+May,Alabama,17359
+Apr.,Alabama,7019
+Dec.,Alaska,34963
+Nov.,Alaska,25369
+Oct.,Alaska,14858
+Sep.,Alaska,7889
+Aug.,Alaska,5250
+Jul.,Alaska,2887
+Jun.,Alaska,944
+May,Alaska,435
+Apr.,Alaska,355
+Dec.,Arizona,358900
+Nov.,Arizona,291696
+Oct.,Arizona,244045
+Sep.,Arizona,218507
+Aug.,Arizona,201661
+Jul.,Arizona,170798
+Jun.,Arizona,79215
+May,Arizona,19255
+Apr.,Arizona,7648
+Nov.,Arkansas,141916
+Oct.,Arkansas,110874
+Sep.,Arkansas,83697
+Aug.,Arkansas,60856
+Jul.,Arkansas,41759
+Jun.,Arkansas,20777
+May,Arkansas,7013
+Apr.,Arkansas,3255
+Dec.,California,1311625
+Nov.,California,1072272
+Oct.,California,916918
+Sep.,California,810625
+Aug.,California,699909
+Jul.,California,485502
+Jun.,California,228732
+May,California,106878
+Apr.,California,48917
+Dec.,Colorado,257347
+Nov.,Colorado,188566
+Oct.,Colorado,104426
+Sep.,Colorado,70536
+Aug.,Colorado,57223
+Jul.,Colorado,46204
+Jun.,Colorado,32715
+May,Colorado,26098
+Apr.,Colorado,15284
+Dec.,Columbia,22872
+Nov.,Connecticut,101469
+Oct.,Connecticut,71207
+Sep.,Connecticut,57550
+Aug.,Connecticut,52495
+Jul.,Connecticut,49670
+Jun.,Connecticut,46514
+May,Connecticut,42022
+Apr.,Connecticut,27700
+Dec.,Delaware,39096
+Nov.,Delaware,30816
+Oct.,Delaware,24751
+Sep.,Delaware,20613
+Aug.,Delaware,17343
+Jul.,Delaware,14689
+Jun.,Delaware,11474
+May,Delaware,9422
+Apr.,Delaware,4734
+Dec.,Florida,1032552
+Nov.,Florida,910065
+Sep.,Florida,698051
+Aug.,Florida,614753
+Jul.,Florida,454457
+Jun.,Florida,149889
+May,Florida,53640
+Apr.,Florida,32529
+Dec.,Georgia,442017
+Nov.,Georgia,399410
+Oct.,Georgia,358225
+Sep.,Georgia,318026
+Aug.,Georgia,268973
+Jul.,Georgia,182286
+Jun.,Georgia,81291
+May,Georgia,46286
+Apr.,Georgia,26155
+Dec.,Hawaii,18738
+Nov.,Hawaii,17199
+Oct.,Hawaii,15116
+Sep.,Hawaii,12469
+Aug.,Hawaii,8139
+Jul.,Hawaii,1865
+Jun.,Hawaii,900
+May,Hawaii,649
+Apr.,Hawaii,613
+Dec.,Idaho,108366
+Nov.,Idaho,87978
+Sep.,Idaho,41434
+Aug.,Idaho,31677
+Jul.,Idaho,19679
+Jun.,Idaho,5752
+May,Idaho,2803
+Apr.,Idaho,1984
+Dec.,Illinois,779975
+Nov.,Illinois,634395
+Oct.,Illinois,408660
+Sep.,Illinois,295763
+Aug.,Illinois,235057
+Jul.,Illinois,178138
+Jun.,Illinois,144238
+May,Illinois,118917
+Apr.,Illinois,52918
+Dec.,Indiana,375019
+Nov.,Indiana,282311
+Oct.,Indiana,175893
+Sep.,Indiana,120019
+Aug.,Indiana,93313
+Jul.,Indiana,65253
+Jun.,Indiana,45594
+May,Indiana,34211
+Apr.,Indiana,17835
+Dec.,Iowa,211891
+Nov.,Iowa,181790
+Oct.,Iowa,117185
+Aug.,Iowa,62720
+Jul.,Iowa,44038
+Jun.,Iowa,29007
+May,Iowa,19244
+Apr.,Iowa,7145
+Dec.,Kansas,168295
+Nov.,Kansas,134533
+Oct.,Kansas,85181
+Sep.,Kansas,59749
+Aug.,Kansas,41048
+Jul.,Kansas,26870
+Jun.,Kansas,14443
+May,Kansas,9719
+Apr.,Kansas,4238
+Dec.,Kentucky,198065
+Nov.,Kentucky,152206
+Oct.,Kentucky,105242
+Sep.,Kentucky,68840
+Aug.,Kentucky,48032
+Jul.,Kentucky,29386
+Jun.,Kentucky,15624
+May,Kentucky,9464
+Apr.,Kentucky,4539
+Dec.,Louisiana,247177
+Nov.,Louisiana,216709
+Oct.,Louisiana,186649
+Aug.,Louisiana,148568
+Jul.,Louisiana,114481
+Jun.,Louisiana,58095
+May,Louisiana,39577
+Apr.,Louisiana,28001
+Dec.,Maine,13127
+Nov.,Maine,9958
+Oct.,Maine,6570
+Sep.,Maine,5391
+Aug.,Maine,4512
+Jul.,Maine,3888
+Jun.,Maine,3253
+May,Maine,2282
+Apr.,Maine,1095
+Dec.,Maryland,212384
+Nov.,Maryland,177086
+Oct.,Maryland,144314
+Sep.,Maryland,124725
+Aug.,Maryland,107791
+Jul.,Maryland,87177
+Jun.,Maryland,67559
+May,Maryland,52015
+Apr.,Maryland,21742
+Dec.,Massachusetts,252017
+Nov.,Massachusetts,200949
+Oct.,Massachusetts,157146
+Sep.,Massachusetts,132116
+Jul.,Massachusetts,117098
+Jun.,Massachusetts,108882
+May,Massachusetts,96301
+Apr.,Massachusetts,62205
+Dec.,Michigan,426576
+Nov.,Michigan,321181
+Oct.,Michigan,193388
+Sep.,Michigan,138014
+Aug.,Michigan,112526
+Jul.,Michigan,89781
+Jun.,Michigan,70728
+May,Michigan,63321
+Apr.,Michigan,47505
+Dec.,Minnesota,345281
+Nov.,Minnesota,256700
+Oct.,Minnesota,145465
+Sep.,Minnesota,99134
+Aug.,Minnesota,75189
+Jul.,Minnesota,53692
+Jun.,Minnesota,36303
+May,Minnesota,26181
+Apr.,Minnesota,8116
+Dec.,Mississippi,163458
+Nov.,Mississippi,140429
+Oct.,Mississippi,119336
+Sep.,Mississippi,98190
+Aug.,Mississippi,82676
+Jun.,Mississippi,27247
+May,Mississippi,15229
+Apr.,Mississippi,6815
+Dec.,Missouri,318422
+Nov.,Missouri,262436
+Oct.,Missouri,180200
+Sep.,Missouri,126113
+Aug.,Missouri,83655
+Jul.,Missouri,48834
+Jun.,Missouri,21551
+May,Missouri,12962
+Apr.,Missouri,7562
+Nov.,Montana,53293
+Oct.,Montana,31916
+Sep.,Montana,13071
+Aug.,Montana,7340
+Jul.,Montana,3814
+Jun.,Montana,967
+May,Montana,505
+Apr.,Montana,453
+Dec.,Nebraska,136325
+Nov.,Nebraska,109280
+Oct.,Nebraska,68150
+Sep.,Nebraska,45044
+Aug.,Nebraska,33753
+Jul.,Nebraska,25422
+Jun.,Nebraska,19042
+May,Nebraska,13654
+Apr.,Nebraska,3784
+Dec.,Nevada,165628
+Oct.,Nevada,99786
+Sep.,Nevada,79980
+Aug.,Nevada,68908
+Jul.,Nevada,46824
+Jun.,Nevada,18456
+May,Nevada,8495
+Apr.,Nevada,4998
+Dec.,New hampshire,24138
+Nov.,New hampshire,16797
+Oct.,New hampshire,10884
+Sep.,New hampshire,8266
+Aug.,New hampshire,7254
+Jul.,New hampshire,6513
+Jun.,New hampshire,5760
+May,New hampshire,4492
+Apr.,New hampshire,2054
+Dec.,New jersey,361986
+Nov.,New jersey,297370
+Oct.,New jersey,236523
+Sep.,New jersey,205275
+Aug.,New jersey,191611
+Jul.,New jersey,180970
+Jun.,New jersey,171667
+May,New jersey,159608
+Apr.,New jersey,118652
+Dec.,New mexico,106856
+Oct.,New mexico,45909
+Sep.,New mexico,29435
+Aug.,New mexico,25283
+Jul.,New mexico,20388
+Jun.,New mexico,12147
+May,New mexico,7624
+Apr.,New mexico,3411
+Dec.,New York,696125
+Nov.,New York,584850
+Oct.,New York,505431
+Sep.,New York,458649
+Aug.,New York,434100
+Jul.,New York,414370
+Jun.,New York,393454
+May,New York,369660
+Apr.,New York,304372
+Dec.,North Carolina,388552
+Nov.,North Carolina,328846
+Oct.,North Carolina,271830
+Sep.,North Carolina,210632
+Aug.,North Carolina,166127
+Jul.,North Carolina,120194
+Jun.,North Carolina,64670
+May,North Carolina,27673
+Apr.,North Carolina,10509
+Dec.,North Dakota,82504
+Nov.,North Dakota,70016
+Sep.,North Dakota,21846
+Aug.,North Dakota,11696
+Jul.,North Dakota,6294
+Jun.,North Dakota,3574
+May,North Dakota,2553
+Apr.,North Dakota,1067
+Dec.,Ohio,467432
+Nov.,Ohio,335423
+Oct.,Ohio,212782
+Sep.,Ohio,153987
+Aug.,Ohio,122262
+Jul.,Ohio,89626
+Jun.,Ohio,51789
+May,Ohio,35034
+Apr.,Ohio,18027
+Dec.,Oklahoma,213245
+Nov.,Oklahoma,167261
+Oct.,Oklahoma,121495
+Sep.,Oklahoma,87199
+Aug.,Oklahoma,58020
+Jul.,Oklahoma,35740
+Jun.,Oklahoma,13757
+May,Oklahoma,6418
+Apr.,Oklahoma,3618
+Dec.,Oregon,83243
+Nov.,Oregon,62175
+Oct.,Oregon,44389
+Aug.,Oregon,26554
+Jul.,Oregon,18131
+Jun.,Oregon,8656
+May,Oregon,4185
+Apr.,Oregon,2510
+Dec.,Pennsylvania,411484
+Nov.,Pennsylvania,295786
+Oct.,Pennsylvania,205517
+Sep.,Pennsylvania,158967
+Aug.,Pennsylvania,133504
+Jul.,Pennsylvania,111078
+Jun.,Pennsylvania,86606
+May,Pennsylvania,72031
+Apr.,Pennsylvania,45763
+Dec.,Rhode island,62137
+Nov.,Rhode island,48001
+Oct.,Rhode island,32874
+Sep.,Rhode island,24748
+Aug.,Rhode island,21903
+Jul.,Rhode island,18950
+Jun.,Rhode island,16911
+May,Rhode island,14912
+Apr.,Rhode island,9016
+Dec.,South carolina,229235
+Nov.,South carolina,203161
+Oct.,South carolina,175594
+Aug.,South carolina,118324
+Jul.,South carolina,87572
+Jun.,South carolina,36399
+May,South carolina,11394
+Apr.,South carolina,6095
+Dec.,South dakota,85304
+Nov.,South dakota,71070
+Oct.,South dakota,44559
+Sep.,South dakota,22389
+Aug.,South dakota,13322
+Jul.,South dakota,8685
+Jun.,South dakota,6764
+May,South dakota,4960
+Apr.,South dakota,2449
+Dec.,Tennessee,397522
+Nov.,Tennessee,331532
+Oct.,Tennessee,259488
+Sep.,Tennessee,196139
+Aug.,Tennessee,153115
+Jul.,Tennessee,102871
+Jun.,Tennessee,43509
+May,Tennessee,22566
+Apr.,Tennessee,10735
+Dec.,Texas,1240750
+Nov.,Texas,1072698
+Oct.,Texas,893451
+Sep.,Texas,748967
+Jul.,Texas,412107
+Jun.,Texas,159986
+May,Texas,62338
+Apr.,Texas,28087
+Dec.,Utah,212844
+Nov.,Utah,170584
+Oct.,Utah,112932
+Sep.,Utah,73042
+Aug.,Utah,51854
+Jul.,Utah,39696
+Jun.,Utah,22217
+May,Utah,9533
+Apr.,Utah,4672
+Dec.,Vermont,4894
+Nov.,Vermont,3551
+Oct.,Vermont,2173
+Sep.,Vermont,1756
+Aug.,Vermont,1612
+Jul.,Vermont,1408
+Jun.,Vermont,1210
+May,Vermont,977
+Apr.,Vermont,866
+Dec.,Virginia,251173
+Nov.,Virginia,213331
+Oct.,Virginia,179639
+Sep.,Virginia,148271
+Jul.,Virginia,88904
+Jun.,Virginia,62787
+May,Virginia,43611
+Apr.,Virginia,15846
+Dec.,Washington,174290
+Nov.,Washington,137411
+Oct.,Washington,105557
+Sep.,Washington,87042
+Aug.,Washington,74320
+Jul.,Washington,59263
+Jun.,Washington,36442
+May,Washington,22778
+Apr.,Washington,15619
+Dec.,West Virginia,53572
+Nov.,West Virginia,38480
+Oct.,West Virginia,23990
+Sep.,West Virginia,15848
+Aug.,West Virginia,10110
+Jul.,West Virginia,6422
+Jun.,West Virginia,2905
+May,West Virginia,1974
+Apr.,West Virginia,1118
+Dec.,Wisconsin,437918
+Nov.,Wisconsin,365190
+Oct.,Wisconsin,232062
+Sep.,Wisconsin,129123
+Aug.,Wisconsin,80300
+Jun.,Wisconsin,31662
+May,Wisconsin,20382
+Apr.,Wisconsin,8052
+Dec.,Wyoming,35941
+Nov.,Wyoming,27129
+Oct.,Wyoming,13028
+Sep.,Wyoming,5948
+Aug.,Wyoming,3820
+Jul.,Wyoming,2686
+Jun.,Wyoming,1487
+May,Wyoming,898
+Apr.,Wyoming,559
