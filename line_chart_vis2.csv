@@ -7,6 +7,8 @@
 4,Colorado,70536
 4,Connecticut,57550
 4,Delaware,20613
+4,Florida,698051
+4,Georgia,318026
 4,Alabama,190496
 4,Alaska,14858
 4,Arizona,244045
@@ -15,6 +17,7 @@
 5,Colorado,104426
 5,Connecticut,71207
 5,Delaware,24751
+5,Georgia,358225
 5,Alabama,228373
 5,Alaska,25369
 5,Arizona,291696
@@ -23,6 +26,8 @@
 5,Colorado,188566
 5,Connecticut,101469
 6,Delaware,30816
+6,Florida,910065
+6,Georgia,399410
 6,Alabama,38045
 6,Alaska,944
 6,Arizona,79215
@@ -31,6 +36,8 @@
 6,Colorado,32715
 6,Connecticut,46514
 6,Delaware,11474
+6,Florida,149889
+7,Georgia,81291
 7,Alabama,85762
 7,Alaska,2887
 7,Arizona,170798
@@ -39,12 +46,15 @@
 7,Colorado,46204
 7,Connecticut,49670
 8,Delaware,14689
+8,Florida,454457
+8,Georgia,182286
 8,Alaska,34963
 8,Arizona,358900
 8,California,1311625
 8,Colorado,257347
-8,Columbia,22872
 8,Delaware,39096
+9,Florida,1032552
+9,Georgia,442017
 9,Alabama,125235
 9,Alaska,5250
 9,Arizona,201661
@@ -53,6 +63,8 @@
 10,Colorado,57223
 10,Connecticut,52495
 10,Delaware,17343
+10,Florida,614753
+10,Georgia,268973
 10,Alabama,7019
 10,Alaska,355
 10,Arizona,7648
@@ -61,6 +73,8 @@
 11,Colorado,15284
 11,Connecticut,27700
 11,Delaware,4734
+11,Florida,32529
+11,Georgia,26155
 11,Alabama,17359
 11,Alaska,435
 11,Arizona,19255
@@ -69,3 +83,5 @@
 12,Colorado,26098
 12,Connecticut,42022
 12,Delaware,9422
+12,Florida,53640
+12,Georgia,46286
